@@ -54,7 +54,6 @@ def main():
                                ~ . _ _ _ _ . ~
         '''
     )
-    print('Welcome to the serpentine encourager!\n\n')
 
     while True:
         print('a) Print encouragement')
