@@ -46,11 +46,6 @@ def main():
 
     )
 
-    while True:
-        print('a) Print encouragement')
-        print('b) Print flag')
-        print('c) Quit\n')
-        choice = input('What would you like to do? (a/b/c) ')
 
         if choice == 'a':
             print_encouragement()
